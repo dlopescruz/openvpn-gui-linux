@@ -7,7 +7,9 @@ no terminal needed.
 > **Disclaimer:** this is an independent community project. It is not affiliated with, endorsed by, or
 > sponsored by OpenVPN Inc. It drives the standard `openvpn` binary installed on your system.
 
-<!-- Add screenshots here, e.g. ![Main window](docs/main-window.png) -->
+<img width="985" height="733" alt="image" src="https://github.com/user-attachments/assets/6673bf46-9edc-45b6-adb1-9dd10068d547" />
+<img width="1136" height="783" alt="image" src="https://github.com/user-attachments/assets/dde38e82-355c-4cb9-9b35-b3fc173063bd" />
+
 
 ## Features
 
